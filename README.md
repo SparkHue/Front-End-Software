@@ -92,7 +92,7 @@ User Account: Manage your profile, view order history, and more.
 Project Structure
 Here's an overview of the project's structure:
 
-
+## Structure
 sparkhue-website/
 │
 ├── public/                 # Static files
