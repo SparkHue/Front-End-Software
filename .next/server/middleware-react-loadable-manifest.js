@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"../layouts/Main.tsx -> ../components/AsideMenu\":{\"id\":\"../layouts/Main.tsx -> ../components/AsideMenu\",\"files\":[\"static/chunks/components_AsideMenu_tsx.js\"]}}"
